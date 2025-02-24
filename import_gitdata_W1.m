@@ -24,12 +24,7 @@ filename = 'W1T2.mlx';
 websave(filename, url);
 
 % load tutorial solutions file from github
-url = 'https://github.com/gcosta18/workshop_code/raw/refs/heads/main/W1T1_solutions.mlx';
-filename = 'W1T1_solutions.mlx';
-websave(filename, url);
-
-% load tutorial solutions file from github
-url = 'https://github.com/gcosta18/workshop_code/raw/refs/heads/main/W1T2_solutions.mlx';
-filename = 'W1T2_solutions.mlx';
+url = 'https://github.com/gcosta18/workshop_code/raw/refs/heads/main/W1T3.mlx';
+filename = 'W1T3.mlx';
 websave(filename, url);
 
