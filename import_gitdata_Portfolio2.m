@@ -13,6 +13,6 @@ websave(filename, url);
 
 
 % load tutorial file from github
-url = 'https://github.com/gcosta18/workshop_code/raw/refs/heads/main/SECTION_A.mlx';
+url = 'https://github.com/gcosta18/workshop_code/raw/refs/heads/main/SECTION_A_odd.mlx';
 filename = 'SECTION_A.mlx';
 websave(filename, url);
