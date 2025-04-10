@@ -2,7 +2,7 @@
 % for MATLAB ONLINE
 
 % load data from github
-url = 'https://github.com/gcosta18/workshop_data/raw/refs/heads/main/warm_up.mat';
+url = 'https://github.com/gcosta18/workshop_data/raw/refs/heads/main/warm_up.mlx';
 filename = 'warm_up.mat';
 websave(filename, url);
 
