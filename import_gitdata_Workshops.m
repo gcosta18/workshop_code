@@ -1,4 +1,4 @@
-%% Week 1
+%% 
 % for MATLAB ONLINE
 
 % load data from github
